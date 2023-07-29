@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: mekanismbridge
+Specification-Vendor: 
+Specification-Version: 1
+Implementation-Title: MekanismBridge
+Implementation-Version: test
+Implementation-Vendor: 
+Implementation-Timestamp: 2023-07-29T03:09:00-0700
+
