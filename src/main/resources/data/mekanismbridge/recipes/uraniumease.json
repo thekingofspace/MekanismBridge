@@ -1,0 +1,18 @@
+{
+  "type": "mekanism:dissolution",
+  "gasInput": {
+    "amount": 1,
+    "gas": "mekanism:uranium_oxide"
+  },
+  "itemInput": {
+    "ingredient": {
+      "amount": 6,
+      "item": "chemlib:fluorine"
+    }
+  },
+  "output": {
+    "amount": 1,
+    "chemicalType": "gas",
+    "gas": "mekanism:uranium_hexafluoride"
+  }
+}

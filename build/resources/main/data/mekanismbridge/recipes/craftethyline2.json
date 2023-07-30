@@ -1,0 +1,12 @@
+{
+  "type": "alchemistry:atomizer",
+  "group": "alchemistry:atomizer",
+  "input": {
+    "fluid": "mekanism:ethyline",
+    "amount": "500"
+  },
+  "result": {
+    "item": "chemlib:ethyline",
+    "count": 8
+  }
+}
