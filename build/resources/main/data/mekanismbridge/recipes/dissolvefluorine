@@ -1,0 +1,24 @@
+{
+  "type": "alchemistry:dissolver",
+  "group": "alchemistry:dissolver",
+  "input": {
+    "ingredient": {
+      "item": "mekanism:fluorine"
+    },
+    "count": 1
+  },
+  "output": {
+    "rolls": 5,
+    "weighted": true,
+    "groups": [
+      {
+        "probability": 100.0,
+        "results": [
+          {
+            "item": "chemlib:fluorine"
+          }
+        ]
+      }
+    ]
+  }
+}
