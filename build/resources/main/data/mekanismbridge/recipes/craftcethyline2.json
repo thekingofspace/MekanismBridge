@@ -2,11 +2,11 @@
   "type": "alchemistry:atomizer",
   "group": "alchemistry:atomizer",
   "input": {
-    "fluid": "mekanism:nitrogen",
+    "fluid": "mekanism:ethyline",
     "amount": "500"
   },
   "result": {
-    "item": "chemlib:nitrogen",
+    "item": "chemlib:ethyline",
     "count": 8
   }
 }

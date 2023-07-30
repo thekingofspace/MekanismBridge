@@ -2,18 +2,18 @@
   "type": "mekanism:rotary",
   "fluidInput": {
     "amount": 1,
-    "fluid": "chemlib:nitrogen_fluid"
+    "fluid": "chemlib:ethyline_fluid"
   },
   "fluidOutput": {
     "amount": 1,
-    "fluid": "mekanism:nitrogen"
+    "fluid": "mekanism:ethyline"
   },
   "gasInput": {
     "amount": 1,
-    "gas": "mekanism:nitrogen"
+    "gas": "mekanism:ethyline"
   },
   "gasOutput": {
     "amount": 1,
-    "gas": "mekanism:nitrogen"
+    "gas": "mekanism:ethyline"
   }
 }

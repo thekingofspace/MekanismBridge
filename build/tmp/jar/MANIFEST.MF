@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Specification-Title: mekanismbridge
-Specification-Vendor: 
+Specification-Vendor: raikin
 Specification-Version: 1
 Implementation-Title: MekanismBridge
 Implementation-Version: test
-Implementation-Vendor: 
-Implementation-Timestamp: 2023-07-29T03:09:00-0700
+Implementation-Vendor: raikin
+Implementation-Timestamp: 2023-07-30T07:56:30-0700
 
