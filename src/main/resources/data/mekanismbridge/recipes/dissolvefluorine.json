@@ -8,14 +8,15 @@
     "count": 1
   },
   "output": {
-    "rolls": 5,
-    "weighted": true,
+    "rolls": 1,
+    "weighted": false,
     "groups": [
       {
         "probability": 100.0,
         "results": [
           {
-            "item": "chemlib:fluorine"
+            "item": "chemlib:fluorine",
+            "count": 6
           }
         ]
       }

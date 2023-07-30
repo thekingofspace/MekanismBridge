@@ -146,6 +146,10 @@ Writing Output: C:\Users\gageh\Downloads\Technomancy-1df182aabc5d4525213d24fecd7
   META-INF/mods.toml
   data/
   data/mekanismbridge/
+  data/mekanismbridge/ifyouseeme/
+  data/mekanismbridge/ifyouseeme/Hi.png
+  data/mekanismbridge/ifyouseeme/Hi.txt
+  data/mekanismbridge/ifyouseeme/isfafmage.png
   data/mekanismbridge/recipes/
   data/mekanismbridge/recipes/craftchlorine1.json
   data/mekanismbridge/recipes/craftchlorine2.json
@@ -154,7 +158,9 @@ Writing Output: C:\Users\gageh\Downloads\Technomancy-1df182aabc5d4525213d24fecd7
   data/mekanismbridge/recipes/crafthydrogen.json
   data/mekanismbridge/recipes/crafthydrogen2.json
   data/mekanismbridge/recipes/craftoxygeon2.json
+  data/mekanismbridge/recipes/dissolvefluorine.json
   data/mekanismbridge/recipes/oxygeon.json
+  data/mekanismbridge/recipes/uraniumease.json
   pack.mcmeta
   test/
   test/mekanismbridge/
