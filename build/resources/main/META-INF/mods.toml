@@ -7,7 +7,7 @@ modId = "mekanismbridge"
 version = "1.0"
 displayName = "mekanismbridge"
 authors = "Raikin"
-description = '''a mod for briding chemlib and mekanism!'''
+description = '''a mod for bridging chemlib and mekanism!'''
 
 [[dependencies.mekanismbridge]]
 modId = "forge"
