@@ -157,6 +157,7 @@ dependencies {
     implementation fg.deobf('curse.maven:mekanism-268560:4644795')
     implementation fg.deobf('curse.maven:chemistrylib-293426:4529024')
     implementation fg.deobf('curse.maven:JEI-238222:4615177')
+    implementation fg.deobf('curse.maven:immersiveengine-231951:4535935')
 }
 
 // This block of code expands all declared replace properties in the specified resource targets.
