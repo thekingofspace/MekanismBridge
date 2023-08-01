@@ -2,7 +2,7 @@
   "type": "mekanism:rotary",
   "fluidInput": {
     "amount": 1,
-    "fluid": "chemlib:ethyline_fluid"
+    "fluid": "chemlib:ethylene_fluid"
   },
   "fluidOutput": {
     "amount": 1,
