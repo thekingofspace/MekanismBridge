@@ -1,0 +1,12 @@
+{
+    "type": "alchemistry:atomizer",
+    "group": "alchemistry:atomizer",
+    "input": {
+        "fluid": "mekanism:sulfuric_acid",
+        "amount": "500"
+    },
+    "result": {
+        "item": "chemlib:sulfuric_acid",
+        "count": 8
+    }
+}

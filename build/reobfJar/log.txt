@@ -160,9 +160,20 @@ Writing Output: C:\Users\gageh\Downloads\Technomancy-1df182aabc5d4525213d24fecd7
   data/mekanismbridge/recipes/crafthydrogen2.json
   data/mekanismbridge/recipes/craftoxygeon2.json
   data/mekanismbridge/recipes/dissolvefluorine.json
+  data/mekanismbridge/recipes/hydrogen_chloride1.json
   data/mekanismbridge/recipes/lithium.json
+  data/mekanismbridge/recipes/osmium1.json
   data/mekanismbridge/recipes/oxygeon.json
+  data/mekanismbridge/recipes/poloniumCompactMethod.json
+  data/mekanismbridge/recipes/sodium1.json
+  data/mekanismbridge/recipes/sulfur_dioxide1.json
+  data/mekanismbridge/recipes/sulfur_dioxide2.json
+  data/mekanismbridge/recipes/sulfur_trioxide1.json
+  data/mekanismbridge/recipes/sulfur_trioxide2.json
+  data/mekanismbridge/recipes/sulfuric_acid1.json
+  data/mekanismbridge/recipes/sulfuric_acid2.json
   data/mekanismbridge/recipes/sulfurtri2.json
+  data/mekanismbridge/recipes/tin1.json
   data/mekanismbridge/recipes/uraniumease.json
   pack.mcmeta
   test/
