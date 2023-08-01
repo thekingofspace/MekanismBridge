@@ -2,7 +2,7 @@
     "type": "alchemistry:atomizer",
     "group": "alchemistry:atomizer",
     "input": {
-        "fluid": "mekanism:osmium",
+        "fluid": "mekanism:clean_osmium",
         "amount": "500"
     },
     "result": {

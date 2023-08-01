@@ -2,7 +2,7 @@
     "type": "alchemistry:atomizer",
     "group": "alchemistry:atomizer",
     "input": {
-        "fluid": "mekanism:tin",
+        "fluid": "mekanism:clean_tin",
         "amount": "500"
     },
     "result": {
