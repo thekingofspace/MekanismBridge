@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Specification-Title: mekanismbridge
-Specification-Vendor: raikin
-Specification-Version: 1
-Implementation-Title: MekanismBridge
-Implementation-Version: test
-Implementation-Vendor: raikin
-Implementation-Timestamp: 2023-08-01T06:01:17-0700
-
