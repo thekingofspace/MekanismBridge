@@ -1,0 +1,13 @@
+{
+  "type": "alchemistry:compactor",
+  "group": "alchemistry:compactor",
+  "input": {
+    "count": 15,
+    "ingredient": {
+      "item": "chemlib:plutonium"
+    }
+  },
+  "result": {
+    "item": "mekanism:pellet_plutonium"
+  }
+}
