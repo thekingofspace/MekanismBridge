@@ -4,7 +4,7 @@ license = "${mod_license}"
 
 [[mods]]
 modId = "mekanismbridge"
-version = "1.0"
+version = "1.2"
 displayName = "mekanismbridge"
 authors = "Raikin"
 description = '''a mod for bridging chemlib and mekanism!'''

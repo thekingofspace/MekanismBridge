@@ -24,6 +24,8 @@ import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
+import net.minecraftforge.eventbus.api.Event.HasResult;
+import net.minecraftforge.eventbus.api.Event.Result;
 import org.slf4j.Logger;
 
 // The value here should match an entry in the META-INF/mods.toml file
