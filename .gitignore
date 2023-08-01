@@ -2,3 +2,6 @@
 /run-data/
 /ifyouseeme/
 /src/main/resources/data/mekanismbridge/ifyouseeme/
+/.gradle/
+/build/
+/.idea/
