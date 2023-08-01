@@ -2,7 +2,7 @@
   "type": "alchemistry:atomizer",
   "group": "alchemistry:atomizer",
   "input": {
-    "fluid": "mekanism:ethyline",
+    "fluid": "mekanism:ethene",
     "amount": "500"
   },
   "result": {
