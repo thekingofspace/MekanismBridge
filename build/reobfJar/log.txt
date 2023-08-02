@@ -153,6 +153,7 @@ Writing Output: C:\Users\gageh\Downloads\Technomancy-1df182aabc5d4525213d24fecd7
   data/mekanismbridge/ifyouseeme/isfafmage.png
   data/mekanismbridge/recipes/
   data/mekanismbridge/recipes/SulfurTri.json
+  data/mekanismbridge/recipes/aluminium3.json
   data/mekanismbridge/recipes/craftchlorine1.json
   data/mekanismbridge/recipes/craftchlorine2.json
   data/mekanismbridge/recipes/craftethyline1.json
@@ -163,11 +164,14 @@ Writing Output: C:\Users\gageh\Downloads\Technomancy-1df182aabc5d4525213d24fecd7
   data/mekanismbridge/recipes/disolveosmium.json
   data/mekanismbridge/recipes/dissolvefluorine.json
   data/mekanismbridge/recipes/hydrogen_chloride1.json
+  data/mekanismbridge/recipes/lead3.json
   data/mekanismbridge/recipes/lithium.json
+  data/mekanismbridge/recipes/nickel3.json
   data/mekanismbridge/recipes/osmium1.json
   data/mekanismbridge/recipes/oxygeon.json
   data/mekanismbridge/recipes/plutonium.json
   data/mekanismbridge/recipes/poloniumCompactMethod.json
+  data/mekanismbridge/recipes/silver3.json
   data/mekanismbridge/recipes/sodium1.json
   data/mekanismbridge/recipes/sulfur_dioxide1.json
   data/mekanismbridge/recipes/sulfur_dioxide2.json
@@ -177,6 +181,7 @@ Writing Output: C:\Users\gageh\Downloads\Technomancy-1df182aabc5d4525213d24fecd7
   data/mekanismbridge/recipes/sulfuric_acid2.json
   data/mekanismbridge/recipes/sulfurtri2.json
   data/mekanismbridge/recipes/tin1.json
+  data/mekanismbridge/recipes/uranium3.json
   data/mekanismbridge/recipes/uraniumease.json
   pack.mcmeta
   test/

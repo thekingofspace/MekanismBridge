@@ -3,7 +3,7 @@
     "group": "alchemistry:dissolver",
     "input": {
         "ingredient": {
-            "item": "immersiveengineering:uranium_ingot"
+            "item": "immersiveengineering:silver_nugget"
         },
         "count": 1
     },
@@ -15,8 +15,8 @@
                 "probability": 100.0,
                 "results": [
                     {
-                        "item": "chemlib:uranium",
-                        "count": 16
+                        "item": "chemlib:silver",
+                        "count": 6
                     }
                 ]
             }

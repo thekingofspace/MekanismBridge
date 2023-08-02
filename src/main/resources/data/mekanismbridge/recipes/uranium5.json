@@ -3,7 +3,7 @@
     "group": "alchemistry:dissolver",
     "input": {
         "ingredient": {
-            "item": "immersiveengineering:uranium_ingot"
+            "item": "immersiveengineering:uranium_nugget"
         },
         "count": 1
     },
@@ -16,7 +16,7 @@
                 "results": [
                     {
                         "item": "chemlib:uranium",
-                        "count": 16
+                        "count": 6
                     }
                 ]
             }

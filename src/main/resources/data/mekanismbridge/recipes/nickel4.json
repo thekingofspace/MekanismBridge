@@ -3,7 +3,7 @@
     "group": "alchemistry:dissolver",
     "input": {
         "ingredient": {
-            "item": "immersiveengineering:uranium_ingot"
+            "item": "immersiveengineering:raw_nickel"
         },
         "count": 1
     },
@@ -15,7 +15,7 @@
                 "probability": 100.0,
                 "results": [
                     {
-                        "item": "chemlib:uranium",
+                        "item": "chemlib:nickel",
                         "count": 16
                     }
                 ]
