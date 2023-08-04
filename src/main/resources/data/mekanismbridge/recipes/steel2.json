@@ -1,0 +1,55 @@
+{
+    "type": "forge:conditional",
+    "recipes": [
+        {
+            "conditions": [
+                {
+                    "modid": "mekanism",
+                    "type": "forge:mod_loaded"
+                }
+            ],
+            "recipe": {
+                "type": "alchemistry:dissolver",
+                "group": "alchemistry:dissolver",
+                "input": {
+                    "ingredient": {
+                        "item": "mekanism:steel_ingot"
+                    },
+                    "count": 1
+                },
+                "output": {
+                    "rolls": 1,
+                    "weighted": false,
+                    "groups": [
+                        {
+                            "probability": 100,
+                            "results": [
+                                {
+                                    "item": "chemlib:iron",
+                                    "count": 16
+                                }
+                            ]
+                        },
+                        {
+                            "probability": 100,
+                            "results": [
+                                {
+                                    "item": "chemlib:carbon",
+                                    "count": 4
+                                }
+                            ]
+                        },
+                        {
+                            "probability": 33.4,
+                            "results": [
+                                {
+                                    "item": "minecraft:air"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
