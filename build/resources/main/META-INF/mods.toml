@@ -4,7 +4,7 @@ license = "All-Rights-Reserved"
 
 [[mods]]
 modId = "mekanismbridge"
-version = "2.1"
+version = "2.2"
 displayName = "mekanismbridge"
 authors = "Raikin"
 description = '''a mod for bridging chemlib and mekanism!'''
@@ -55,5 +55,12 @@ side="BOTH"
 modId="immersiveengineering"
 mandatory=true
 versionRange="[1.19.2-9.2.2-165,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.mekanismbridge]]
+modId="create"
+mandatory=true
+versionRange="[0.5.1.f,)"
 ordering="NONE"
 side="BOTH"
