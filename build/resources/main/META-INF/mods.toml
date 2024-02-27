@@ -19,48 +19,7 @@ side = "BOTH"
 [[dependencies.mekanismbridge]]
 modId = "minecraft"
 mandatory = true
-versionRange = "[1.19.2,1.20)"
+versionRange = "*"
 ordering = "NONE"
 side = "BOTH"
 
-[[dependencies.mekanismbridge]]
-modId = "mekanism"
-mandatory=true
-versionRange="[1.19.2-10.3.9.13,)"
-ordering="NONE"
-side="BOTH"
-
-[[dependencies.mekanismbridge]]
-modId="alchemistry"
-mandatory=true
-versionRange="[1.19.2-2.3.1,)"
-ordering="NONE"
-side="BOTH"
-
-[[dependencies.mekanismbridge]]
-modId="alchemylib"
-mandatory=true
-versionRange="[1.19.2-1.0.21,)"
-ordering="NONE"
-side="BOTH"
-
-[[dependencies.mekanismbridge]]
-modId="chemlib"
-mandatory=true
-versionRange="[1.19.2-2.0.17,)"
-ordering="NONE"
-side="BOTH"
-
-[[dependencies.mekanismbridge]]
-modId="immersiveengineering"
-mandatory=true
-versionRange="[1.19.2-9.2.2-165,)"
-ordering="NONE"
-side="BOTH"
-
-[[dependencies.mekanismbridge]]
-modId="create"
-mandatory=true
-versionRange="[0.5.1.f,)"
-ordering="NONE"
-side="BOTH"
