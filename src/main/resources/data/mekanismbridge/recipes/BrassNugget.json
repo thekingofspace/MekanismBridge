@@ -1,0 +1,22 @@
+{
+    "type": "alchemistry:combiner",
+    "group": "alchemistry:combiner",
+    "input": [
+        {
+            "count": 16,
+            "ingredient": {
+                "item": "chemlib:copper"
+            }
+        },
+        {
+            "count": 16,
+            "ingredient": {
+                "item": "chemlib:zinc"
+            }
+        }
+    ],
+    "result": {
+        "item": "create:brass_nugget",
+        "count": 1
+    }
+}

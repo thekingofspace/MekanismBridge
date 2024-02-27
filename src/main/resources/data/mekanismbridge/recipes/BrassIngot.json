@@ -1,0 +1,29 @@
+{
+    "type": "alchemistry:dissolver",
+    "group": "alchemistry:dissolver",
+    "input": {
+        "count": 1,
+        "ingredient": {
+            "item": "create:brass_ingot"
+        }
+    },
+    "output": {
+        "groups": [
+            {
+                "probability": 100.0,
+                "results": [
+                    {
+                        "item": "chemlib:copper",
+                        "count": 16
+                    },
+                    {
+                        "item": "chemlib:zinc",
+                        "count": 16
+                    }
+                ]
+            }
+        ],
+        "rolls": 1,
+        "weighted": true
+    }
+}

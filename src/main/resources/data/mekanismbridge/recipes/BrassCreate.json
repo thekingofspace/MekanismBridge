@@ -1,0 +1,29 @@
+{
+    "type": "alchemistry:dissolver",
+    "group": "alchemistry:dissolver",
+    "input": {
+        "count": 1,
+        "ingredient": {
+            "item": "create:brass_nugget"
+        }
+    },
+    "output": {
+        "groups": [
+            {
+                "probability": 100.0,
+                "results": [
+                    {
+                        "item": "chemlib:copper",
+                        "count": 1
+                    },
+                    {
+                        "item": "chemlib:zinc",
+                        "count": 1
+                    }
+                ]
+            }
+        ],
+        "rolls": 1,
+        "weighted": true
+    }
+}
