@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "mekanism:uranium_ingot",
+    "mekanism:yellow_cake_uranium",
+    "create:crushed_raw_uranium",
+    "immersiveengineering:raw_uranium",
+    "mekanism:uranium_ingot",
+    "electrodynamics:raworeuranium",
+    "immersiveengineering:uranium_ingot"
+  ]
+}

@@ -153,6 +153,10 @@ Writing Output: C:\Users\gageh\Downloads\Technomancy-1df182aabc5d4525213d24fecd7
   data/mekanismbridge/ifyouseeme/Hi.txt
   data/mekanismbridge/ifyouseeme/isfafmage.png
   data/mekanismbridge/recipes/
+  data/mekanismbridge/recipes/AndesiteAloy.json
+  data/mekanismbridge/recipes/BrassCreate.json
+  data/mekanismbridge/recipes/BrassIngot.json
+  data/mekanismbridge/recipes/BrassNugget.json
   data/mekanismbridge/recipes/SulfurTri.json
   data/mekanismbridge/recipes/aluminium3.json
   data/mekanismbridge/recipes/aluminium5.json
@@ -196,6 +200,8 @@ Writing Output: C:\Users\gageh\Downloads\Technomancy-1df182aabc5d4525213d24fecd7
   data/mekanismbridge/recipes/uranium4.json
   data/mekanismbridge/recipes/uranium5.json
   data/mekanismbridge/recipes/uraniumease.json
+  data/mekanismbridge/recipes/zinc.json
+  data/mekanismbridge/recipes/zincNugget.json
   pack.mcmeta
   test/
   test/mekanismbridge/

@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "mekanism:uranium_nugget",
+    "immersiveengineering:uranium_nugget"
+  ]
+}

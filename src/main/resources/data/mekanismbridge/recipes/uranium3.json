@@ -3,7 +3,7 @@
     "group": "alchemistry:dissolver",
     "input": {
         "ingredient": {
-            "item": "immersiveengineering:uranium_ingot"
+            "tag": "forge:uraniumwhole"
         },
         "count": 1
     },

@@ -1,0 +1,16 @@
+{
+    "type": "alchemistry:atomizer",
+    "group": "alchemistry:atomizer",
+    "input": {
+        "fluid": "mekanism:uranium_hexafluoride",
+        "amount": "500"
+    },
+    "result": {
+        "item": "chemlib:uranium",
+        "count": 16
+    },
+    "result": {
+        "item": "chemlib:fluorite",
+        "count": 96
+    }
+}

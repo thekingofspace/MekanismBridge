@@ -3,7 +3,7 @@
     "group": "alchemistry:dissolver",
     "input": {
         "ingredient": {
-            "item": "immersiveengineering:uranium_nugget"
+            "tag": "forge:uraniumhalf"
         },
         "count": 1
     },
